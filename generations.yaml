@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Honda_Shuttle"
+
+generations:
+  - name: "First Generation (GK8/GK9/GP7/GP8)"
+    start_year: 2015
+    end_year: 2022
+    description: "A compact wagon on the third-generation Fit platform, with a 1.5 L engine and the i-DCD hybrid."
