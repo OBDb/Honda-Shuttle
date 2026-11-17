@@ -81,7 +81,7 @@
   ]},
 { "hdr": "DA60", "rax": "60", "cmd": {"22": "7022"}, "freq": 1, "dbgfilter": { "from": 2016 },
   "signals": [
-    {"id": "SHUTTLE_ODO_V3", "path": "Trips", "fmt": {"bix": 48, "len": 24, "max": 200000, "unit": "miles" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "SHUTTLE_ODO_V3", "path": "Trips", "fmt": {"bix": 48, "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "DA60", "rax": "60", "fcm1": true, "cmd": {"22": "7028"}, "freq": 5, "dbgfilter": { "from": 2016 },
   "signals": [
